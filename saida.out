@@ -1,0 +1,10 @@
+VCD info: dumpfile saida.vcd opened for output.
+Test 0: Controller OK! Received=a5, Expected=a5
+Test 0: Peripheral OK! Received=a5, Expected=a5
+Test 1: Controller OK! Received=5a, Expected=5a
+Test 1: Peripheral OK! Received=5a, Expected=5a
+Test 2: Controller OK! Received=ff, Expected=ff
+Test 2: Peripheral OK! Received=ff, Expected=ff
+Test 3: Controller OK! Received=00, Expected=00
+Test 3: Peripheral OK! Received=00, Expected=00
+tb.v:59: $finish called at 1771000 (1ps)
